@@ -1,0 +1,133 @@
+{
+    "version": 1,
+    "lastUpdated": "2026-03-02",
+    "jobs": [
+        {
+            "id": "bahama_mamas",
+            "name": "bahamamamas",
+            "label": "Bahama Mamas",
+            "description": "Bring the nightlife to your server with the Bahama Mamas job! This job lets players manage and operate the iconic nightclub, complete with bartending, DJing, security, and more.",
+            "author": "Cactus Scripts",
+            "authorDiscord": "cactus_scripts",
+            "map": "Gabz Bahama Mamas",
+            "language": "English",
+            "importCount": 6,
+            "tags": ["nightclub", "bar", "drinks", "gabz"],
+            "createdAt": "2026-02-15",
+            "updatedAt": "2026-03-01",
+            "thumbnail": "bahama_mamas.webp",
+            "items": [
+                { "name": "mojito", "label": "Mojito", "weight": 200, "type": "item_standard" },
+                { "name": "vodka", "label": "Vodka", "weight": 250, "type": "item_standard" },
+                { "name": "champagne", "label": "Champagne", "weight": 300, "type": "item_standard" },
+                { "name": "tequila", "label": "Tequila", "weight": 250, "type": "item_standard" },
+                { "name": "martini", "label": "Martini", "weight": 150, "type": "item_standard" },
+                { "name": "icetea", "label": "Iced Tea", "weight": 180, "type": "item_standard" },
+                { "name": "lemonade", "label": "Lemonade", "weight": 220, "type": "item_standard" }
+            ]
+        },
+        {
+            "id": "burgershot",
+            "name": "burgershot",
+            "label": "Burgershot",
+            "description": "Manage the iconic fast-food chain! Cook burgers, serve customers, and build your fast-food empire in the wild west.",
+            "author": "Cactus Scripts",
+            "authorDiscord": "cactus_scripts",
+            "map": "Gabz Burgershot",
+            "language": "English",
+            "importCount": 3,
+            "tags": ["food", "restaurant", "gabz", "burgers"],
+            "createdAt": "2026-02-20",
+            "updatedAt": "2026-03-01",
+            "thumbnail": "burgershot.webp",
+            "items": [
+                { "name": "burger", "label": "Burger", "weight": 250, "type": "item_standard" },
+                { "name": "fries", "label": "Fries", "weight": 150, "type": "item_standard" },
+                { "name": "soda", "label": "Soda", "weight": 200, "type": "item_standard" },
+                { "name": "milkshake", "label": "Milkshake", "weight": 300, "type": "item_standard" },
+                { "name": "hotdog", "label": "Hot Dog", "weight": 200, "type": "item_standard" }
+            ]
+        },
+        {
+            "id": "police_station",
+            "name": "police",
+            "label": "Police",
+            "description": "Full police department setup with evidence storage, armory access, duty toggle, and full grade hierarchy for your law enforcement roleplay.",
+            "author": "Cactus Scripts",
+            "authorDiscord": "cactus_scripts",
+            "map": "Gabz MRPD",
+            "language": "English",
+            "importCount": 3,
+            "tags": ["police", "law", "gabz", "mrpd"],
+            "createdAt": "2026-02-18",
+            "updatedAt": "2026-03-01",
+            "thumbnail": "police.webp",
+            "items": [
+                { "name": "handcuffs", "label": "Handcuffs", "weight": 300, "type": "item_standard" },
+                { "name": "badge", "label": "Police Badge", "weight": 100, "type": "item_standard" },
+                { "name": "evidence_bag", "label": "Evidence Bag", "weight": 50, "type": "item_standard" }
+            ]
+        },
+        {
+            "id": "vanilla_unicorn",
+            "name": "vanillaunicorn",
+            "label": "Vanilla Unicorn",
+            "description": "Manage the famous Vanilla Unicorn club with bartending, entertainment management, and VIP services.",
+            "author": "Cactus Scripts",
+            "authorDiscord": "cactus_scripts",
+            "map": "Gabz Vanilla Unicorn",
+            "language": "English",
+            "importCount": 3,
+            "tags": ["club", "bar", "gabz", "entertainment"],
+            "createdAt": "2026-02-22",
+            "updatedAt": "2026-03-01",
+            "thumbnail": "vanilla_unicorn.webp",
+            "items": [
+                { "name": "cocktail", "label": "Cocktail", "weight": 200, "type": "item_standard" },
+                { "name": "whiskey", "label": "Whiskey", "weight": 250, "type": "item_standard" },
+                { "name": "beer", "label": "Beer", "weight": 300, "type": "item_standard" }
+            ]
+        },
+        {
+            "id": "mafia_hq",
+            "name": "mafia",
+            "label": "Mafia",
+            "description": "Run your own criminal organization from the Broxf Mansion. Manage members, run operations, and build your underground empire.",
+            "author": "Cactus Scripts",
+            "authorDiscord": "cactus_scripts",
+            "map": "Brofx Mansion 18",
+            "language": "English",
+            "importCount": 3,
+            "tags": ["crime", "mafia", "gang", "brofx"],
+            "createdAt": "2026-02-25",
+            "updatedAt": "2026-03-01",
+            "thumbnail": "mafia.webp",
+            "items": [
+                { "name": "lockpick", "label": "Lockpick", "weight": 100, "type": "item_standard" },
+                { "name": "dirty_money", "label": "Dirty Money", "weight": 50, "type": "item_standard" }
+            ]
+        },
+        {
+            "id": "winery",
+            "name": "winery",
+            "label": "Winery",
+            "description": "Manage a vineyard and winery! Harvest grapes, produce wine, and sell your finest bottles to customers across the frontier.",
+            "author": "Cactus Scripts",
+            "authorDiscord": "cactus_scripts",
+            "map": "Dolu Vineyard",
+            "language": "English",
+            "importCount": 3,
+            "tags": ["wine", "vineyard", "dolu", "farming"],
+            "createdAt": "2026-02-28",
+            "updatedAt": "2026-03-01",
+            "thumbnail": "winery.webp",
+            "items": [
+                { "name": "grapes", "label": "Grapes", "weight": 100, "type": "item_standard" },
+                { "name": "red_wine", "label": "Red Wine", "weight": 400, "type": "item_standard" },
+                { "name": "white_wine", "label": "White Wine", "weight": 400, "type": "item_standard" },
+                { "name": "wine_barrel", "label": "Wine Barrel", "weight": 1000, "type": "item_standard" },
+                { "name": "wine_bottle", "label": "Wine Bottle", "weight": 350, "type": "item_standard" }
+            ]
+        }
+    ]
+}

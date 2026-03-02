@@ -1,1 +1,888 @@
-{"jobs":[{"id":"sam_1772466709","distance":2,"defaultPermissions":{"canSeeBonusButton":3,"manageEmployeeGrade":3,"manageMoney":3,"editAvatars":0,"openBossMenu":0,"viewHistory":0,"promote":3,"upgradeStorage":3,"accessInventory":0,"viewFullHistory":3,"canSeeDemoteButton":3,"canGiveBonus":3,"canSeeFireButton":3,"editGrades":3,"canSeePromoteButton":3,"recruit":3,"fire":3,"manageGold":3,"canSeeManageButton":0},"authorDiscord":"","items":[{"label":"water","name":"water","type":"item_standard","weight":200},{"label":"Pistolette","name":"WEAPON_PISTOL_VOLCANIC","type":"item_standard","weight":200}],"importCount":0,"description":"Ahaha","dutyPoints":[],"offDutyPay":false,"coords":{"x":-249.618,"y":831.132,"z":121.812},"stashes":[],"author":"Jojo le dozo","sellPoints":[],"map":"ahjah","language":"English","registers":[{"distance":3,"employeePercentage":10,"interactionType":"prompt","rotX":0,"heading":0,"promptText":"Use Register","interactionLabel":"Cash Register","propModel":"","jobRestricted":true,"rotY":0,"label":"sam terst","name":"sam","y":828.8291,"radius":1.25,"x":-248.4961,"gizmoPlaced":0,"z":122.2791,"icon":"fas fa-cash-register"}],"minGradeToEditGrades":3,"defaultDuty":false,"tags":["az"],"sharedAt":"2026-03-02T15:51:49Z","label":"Ranch","harvestZones":[{"animName":"","rewards":[{"item":"water","chance":100,"amount":1}],"cooldown":30,"jobRestricted":true,"points":[{"heightOffset":0,"distance":3,"rotY":0,"rotX":0,"prop":"","heading":0,"radius":1.5,"x":-245.9363,"y":824.8635,"z":122.3566,"gizmoPlaced":0},{"heightOffset":0,"distance":3,"rotY":0,"rotX":0,"prop":"humbirdsage_p","heading":78.36,"radius":1.5,"x":-243.4973,"y":825.6484,"z":121.9559,"gizmoPlaced":1}],"requiredItem":"","interactionType":"prompt","animFlag":17,"animDict":"","animId":"craft","name":"sam","duration":5,"promptText":"Harvest"}],"shops":[{"distance":3,"revenueTarget":"company","interactionType":"prompt","npcModel":"casp_hunting02_males_01","heading":331.62,"gradeRequired":0,"promptText":"Ouvre moi si ta les baloches","interactionLabel":"Coucou la team","paymentSource":"player","jobRestricted":false,"label":"Hey je suis fort","icon":"fas fa-shopping-cart","name":"samsam","radius":1.5,"x":-253.5074,"y":826.1283,"z":121.6767,"items":[{"item":"water","gradeRequired":0,"currency":"cash","price":10,"label":"Eau de zinzin"},{"item":"WEAPON_PISTOL_VOLCANIC","gradeRequired":0,"currency":"cash","price":0,"label":"Pistolette"}]}],"grades":[{"level":0,"name":"Recruit","salary":20},{"level":1,"name":"Employee","salary":50},{"level":2,"name":"Samsam","salary":80},{"level":3,"name":"Manager","salary":150},{"level":4,"name":"New grade","salary":50}],"authorAvatar":"https://cdn.discordapp.com/avatars/215902300722429953/a_f7f230dd582f6dedf377a8a2bec54ab0.gif?size=128","name":"sam","maxSalary":5000,"blips":[]},{"id":"sam_1772476505","distance":2,"defaultPermissions":{"canSeeBonusButton":3,"manageEmployeeGrade":3,"manageMoney":3,"editAvatars":0,"openBossMenu":0,"viewHistory":0,"promote":3,"upgradeStorage":3,"editGrades":3,"viewFullHistory":3,"accessInventory":0,"canGiveBonus":3,"canSeeFireButton":3,"canSeePromoteButton":3,"recruit":3,"canSeeDemoteButton":3,"fire":3,"manageGold":3,"canSeeManageButton":0},"authorDiscord":"","items":[{"label":"water","name":"water","type":"item_standard","weight":200},{"label":"Pistolette","name":"WEAPON_PISTOL_VOLCANIC","type":"item_standard","weight":200}],"importCount":1,"shops":[{"distance":3,"revenueTarget":"company","interactionType":"prompt","npcModel":"casp_hunting02_males_01","heading":331.62,"gradeRequired":0,"promptText":"Ouvre moi si ta les baloches","interactionLabel":"Coucou la team","paymentSource":"player","jobRestricted":false,"label":"Hey je suis fort","icon":"fas fa-shopping-cart","name":"samsam","radius":1.5,"x":-253.5074,"y":826.1283,"z":121.6767,"items":[{"item":"water","gradeRequired":0,"currency":"cash","price":10,"label":"Eau de zinzin"},{"item":"WEAPON_PISTOL_VOLCANIC","gradeRequired":0,"currency":"cash","price":0,"label":"Pistolette"}]}],"dutyPoints":[],"offDutyPay":false,"coords":{"x":-249.618,"y":831.132,"z":121.812},"stashes":[],"author":"Jojo le dozo","sellPoints":[],"language":"English","harvestZones":[{"animName":"","rewards":[{"item":"water","chance":100,"amount":1}],"cooldown":30,"jobRestricted":true,"points":[{"heightOffset":0,"distance":3,"rotY":0,"rotX":0,"prop":"","heading":0,"radius":1.5,"x":-245.9363,"y":824.8635,"z":122.3566,"gizmoPlaced":0},{"heightOffset":0,"distance":3,"rotY":0,"rotX":0,"prop":"humbirdsage_p","heading":78.36,"radius":1.5,"x":-243.4973,"y":825.6484,"z":121.9559,"gizmoPlaced":1}],"requiredItem":"","interactionType":"prompt","animFlag":17,"animDict":"","animId":"craft","name":"sam","duration":5,"promptText":"Harvest"}],"registers":[{"distance":3,"employeePercentage":10,"interactionType":"prompt","rotX":0,"heading":0,"promptText":"Use Register","interactionLabel":"Cash Register","propModel":"","jobRestricted":true,"rotY":0,"label":"sam terst","name":"sam","y":828.8291,"radius":1.25,"x":-248.4961,"gizmoPlaced":0,"z":122.2791,"icon":"fas fa-cash-register"}],"minGradeToEditGrades":3,"description":"SAM c'est un boss c'est vrai qu'il est beau","tags":["Test"],"sharedAt":"2026-03-02T18:35:06Z","label":"Ranch","defaultDuty":false,"map":"Sam","grades":[{"level":0,"name":"Recruit","salary":20},{"level":1,"name":"Employee","salary":50},{"level":2,"name":"Samsam","salary":80},{"level":3,"name":"Manager","salary":150},{"level":4,"name":"New grade","salary":50}],"authorAvatar":"https://cdn.discordapp.com/avatars/215902300722429953/a_f7f230dd582f6dedf377a8a2bec54ab0.gif?size=128","name":"sam","maxSalary":5000,"blips":[]},{"id":"farm_1772476892","distance":2,"defaultPermissions":{"canSeeBonusButton":3,"manageEmployeeGrade":3,"manageMoney":3,"editAvatars":0,"openBossMenu":0,"viewHistory":0,"promote":3,"upgradeStorage":3,"editGrades":3,"viewFullHistory":3,"accessInventory":0,"canGiveBonus":3,"canSeeFireButton":3,"canSeePromoteButton":3,"recruit":3,"canSeeDemoteButton":3,"fire":3,"manageGold":3,"canSeeManageButton":0},"authorDiscord":"","items":[],"shops":[],"dutyPoints":[],"offDutyPay":false,"map":"Spooni","language":"English","author":"Jojo le dozo","stashes":[],"sellPoints":[],"description":"Salut à tous aujourd'hui voici un job qui vous permet de recolter et de farme deja pret pour spooni, avec le mapping nanani \nJ'espere que ca vous plaira en tout cas a moi oui","registers":[],"sharedAt":"2026-03-02T18:41:32Z","defaultDuty":false,"importCount":0,"tags":["Farmville"],"label":"Rancher","minGradeToEditGrades":3,"harvestZones":[],"grades":[{"level":0,"name":"Recruit","salary":20},{"level":1,"name":"Employee","salary":50},{"level":2,"name":"Senior","salary":80},{"level":3,"name":"Manager","salary":150},{"level":4,"name":"New grade","salary":50},{"level":5,"name":"New grade","salary":50},{"level":6,"name":"New grade","salary":50},{"level":7,"name":"New grade","salary":50},{"level":8,"name":"New grade","salary":50},{"level":9,"name":"New grade","salary":50},{"level":10,"name":"New grade","salary":50}],"authorAvatar":"https://cdn.discordapp.com/avatars/215902300722429953/a_f7f230dd582f6dedf377a8a2bec54ab0.gif?size=128","name":"farm","maxSalary":5000,"blips":[]},{"id":"sam_1772483592","distance":2,"defaultPermissions":{"canSeeBonusButton":3,"manageEmployeeGrade":3,"manageMoney":3,"editAvatars":0,"openBossMenu":0,"viewHistory":0,"promote":3,"upgradeStorage":3,"editGrades":3,"viewFullHistory":3,"accessInventory":0,"canGiveBonus":3,"canSeeFireButton":3,"canSeePromoteButton":3,"recruit":3,"canSeeDemoteButton":3,"fire":3,"manageGold":3,"canSeeManageButton":0},"authorDiscord":"","items":[{"label":"water","name":"water","type":"item_standard","weight":200},{"label":"Pistolette","name":"WEAPON_PISTOL_VOLCANIC","type":"item_standard","weight":200}],"description":"RSG EDITION","shops":[{"distance":3,"revenueTarget":"company","interactionType":"prompt","npcModel":"casp_hunting02_males_01","heading":331.62,"gradeRequired":0,"promptText":"Ouvre moi si ta les baloches","interactionLabel":"Coucou la team","paymentSource":"player","jobRestricted":false,"label":"Hey je suis fort","icon":"fas fa-shopping-cart","name":"samsam","radius":1.5,"x":-253.5074,"items":[{"item":"water","gradeRequired":0,"currency":"cash","price":10,"label":"Eau de zinzin"},{"item":"WEAPON_PISTOL_VOLCANIC","gradeRequired":0,"currency":"cash","price":0,"label":"Pistolette"}],"z":121.6767,"y":826.1283}],"dutyPoints":[],"offDutyPay":false,"coords":{"x":-249.618,"y":831.132,"z":121.812},"stashes":[],"author":"Jojo le dozo","sellPoints":[],"map":"","authorAvatar":"https://cdn.discordapp.com/avatars/215902300722429953/a_f7f230dd582f6dedf377a8a2bec54ab0.gif?size=128","registers":[{"distance":3,"employeePercentage":10,"interactionType":"prompt","rotX":0,"heading":0,"promptText":"Use Register","interactionLabel":"Cash Register","propModel":"","jobRestricted":true,"rotY":0,"icon":"fas fa-cash-register","name":"sam","y":828.8291,"radius":1.25,"x":-248.4961,"gizmoPlaced":0,"z":122.2791,"label":"sam terst"}],"minGradeToEditGrades":3,"importCount":0,"tags":[],"sharedAt":"2026-03-02T20:33:12Z","label":"Ranch","defaultDuty":false,"harvestZones":[{"animName":"","rewards":[{"item":"water","chance":100,"amount":1}],"cooldown":30,"jobRestricted":true,"points":[{"heightOffset":0,"distance":3,"rotY":0,"rotX":0,"prop":"","heading":0,"y":824.8635,"x":-245.9363,"gizmoPlaced":0,"z":122.3566,"radius":1.5},{"heightOffset":0,"distance":3,"rotY":0,"rotX":0,"prop":"humbirdsage_p","heading":78.36,"y":825.6484,"x":-243.4973,"gizmoPlaced":1,"z":121.9559,"radius":1.5}],"requiredItem":"","interactionType":"prompt","animDict":"","name":"sam","animId":"craft","duration":5,"animFlag":17,"promptText":"Harvest"}],"grades":[{"level":0,"name":"Recruit","salary":20},{"level":1,"name":"Employee","salary":50},{"level":2,"name":"Samsam","salary":80},{"level":3,"name":"Manager","salary":150},{"level":4,"name":"New grade","salary":50}],"language":"English","name":"sam","maxSalary":5000,"blips":[]},{"id":"vorp_1772484287","distance":2,"defaultPermissions":{"canSeeBonusButton":3,"manageEmployeeGrade":3,"manageMoney":3,"editGrades":3,"openBossMenu":0,"viewHistory":0,"promote":3,"upgradeStorage":3,"editAvatars":0,"viewFullHistory":3,"accessInventory":0,"canGiveBonus":3,"canSeeFireButton":3,"canSeePromoteButton":3,"recruit":3,"canSeeDemoteButton":3,"fire":3,"manageGold":3,"canSeeManageButton":0},"authorDiscord":"","map":"","shops":[{"distance":3,"revenueTarget":"company","interactionType":"prompt","npcModel":"amsp_robsdgunsmith_males_01","heading":112.75,"gradeRequired":0,"promptText":"sss","interactionLabel":"kskozskz","paymentSource":"player","jobRestricted":true,"label":"sasasas","icon":"fas fa-shopping-cart","y":847.2131,"radius":1.5,"x":-243.3207,"items":[{"item":"water","gradeRequired":0,"currency":"cash","price":0,"label":"SAMSMASM"}],"z":123.8415,"name":"sasassasasas"}],"dutyPoints":[],"offDutyPay":false,"importCount":1,"description":"VORP","author":"Jojo le dozo","language":"English","stashes":[],"sellPoints":[],"registers":[],"sharedAt":"2026-03-02T20:44:47Z","name":"vorp","minGradeToEditGrades":3,"tags":[],"label":"vorp","defaultDuty":false,"harvestZones":[{"animName":"","rewards":[{"item":"water","chance":100,"amount":1}],"interactionType":"prompt","jobRestricted":true,"points":[{"heightOffset":0,"distance":3,"rotY":0,"rotX":0,"prop":"mp001_p_mp_still01x","heading":98.35,"gizmoPlaced":0,"x":-246.3727,"y":842.55,"z":122.5191,"radius":1.5}],"requiredItem":"","cooldown":30,"animDict":"","animFlag":17,"animId":"craft","name":"zovb","duration":5,"promptText":"Harvest"}],"grades":[{"level":0,"name":"Recruit","salary":20},{"level":1,"name":"Employee","salary":50},{"level":2,"name":"Senior","salary":80},{"level":3,"name":"Manager","salary":150}],"authorAvatar":"https://cdn.discordapp.com/avatars/215902300722429953/a_f7f230dd582f6dedf377a8a2bec54ab0.gif?size=128","items":[{"label":"water","name":"water","type":"item_standard","weight":200}],"maxSalary":5000,"blips":[]}],"updated":"2026-03-02T21:03:41Z"}
+{
+  "jobs": [
+    {
+      "id": "blacksmith_1772500001",
+      "name": "blacksmith",
+      "label": "Blacksmith",
+      "description": "A traditional blacksmith workshop in Valentine. Forge horseshoes, repair tools, and craft metal goods for the townsfolk. Harvest ore from the nearby mines and sell your crafted wares at the shop.",
+      "author": "Cactus Scripts",
+      "authorAvatar": "",
+      "authorDiscord": "",
+      "language": "English",
+      "map": "Valentine",
+      "tags": ["Crafting", "Economy", "Roleplay"],
+      "sharedAt": "2026-03-02T16:00:00Z",
+      "importCount": 14,
+      "distance": 2.5,
+      "maxSalary": 500,
+      "minGradeToEditGrades": 3,
+      "defaultDuty": false,
+      "offDutyPay": false,
+      "coords": { "x": -186.42, "y": 641.38, "z": 114.07 },
+      "grades": [
+        { "level": 0, "name": "Apprentice", "salary": 15 },
+        { "level": 1, "name": "Journeyman", "salary": 30 },
+        { "level": 2, "name": "Smith", "salary": 55 },
+        { "level": 3, "name": "Master Smith", "salary": 90 },
+        { "level": 4, "name": "Owner", "salary": 150 }
+      ],
+      "defaultPermissions": {
+        "openBossMenu": 0, "accessInventory": 0, "editAvatars": 0,
+        "viewHistory": 0, "canSeeManageButton": 0,
+        "manageMoney": 4, "manageGold": 4, "recruit": 3, "fire": 3,
+        "promote": 3, "editGrades": 4, "viewFullHistory": 3,
+        "upgradeStorage": 4, "canGiveBonus": 3, "canSeeBonusButton": 3,
+        "canSeeFireButton": 3, "canSeeDemoteButton": 3,
+        "canSeePromoteButton": 3, "manageEmployeeGrade": 3
+      },
+      "harvestZones": [
+        {
+          "name": "iron_ore",
+          "promptText": "Mine Iron Ore",
+          "interactionType": "prompt",
+          "duration": 8,
+          "cooldown": 45,
+          "animDict": "",
+          "animName": "",
+          "animId": "craft",
+          "animFlag": 17,
+          "requiredItem": "",
+          "jobRestricted": true,
+          "rewards": [
+            { "item": "iron_ore", "amount": 2, "chance": 100 },
+            { "item": "coal", "amount": 1, "chance": 60 }
+          ],
+          "points": [
+            { "x": -179.52, "y": 636.14, "z": 113.87, "heading": 0, "radius": 2.0, "distance": 3, "heightOffset": 0, "rotX": 0, "rotY": 0, "prop": "", "gizmoPlaced": 0 },
+            { "x": -177.31, "y": 638.02, "z": 113.65, "heading": 45.0, "radius": 2.0, "distance": 3, "heightOffset": 0, "rotX": 0, "rotY": 0, "prop": "p_amb_oilcan01x", "gizmoPlaced": 1 }
+          ]
+        }
+      ],
+      "sellPoints": [
+        {
+          "name": "sell_metals",
+          "label": "Sell Forged Goods",
+          "promptText": "Sell Goods",
+          "interactionType": "prompt",
+          "jobRestricted": true,
+          "x": -190.88, "y": 645.22, "z": 114.10,
+          "heading": 180.0, "radius": 1.5, "distance": 3,
+          "items": [
+            { "item": "horseshoe", "price": 8, "currency": "cash", "label": "Horseshoe" },
+            { "item": "iron_ingot", "price": 15, "currency": "cash", "label": "Iron Ingot" }
+          ]
+        }
+      ],
+      "shops": [
+        {
+          "name": "smith_supplies",
+          "label": "Smith Supplies",
+          "interactionLabel": "Browse Supplies",
+          "promptText": "Open Smith Supplies",
+          "interactionType": "prompt",
+          "icon": "fas fa-hammer",
+          "jobRestricted": false,
+          "gradeRequired": 0,
+          "npcModel": "s_m_m_sdblacksmith_01",
+          "x": -188.14, "y": 643.55, "z": 114.07,
+          "heading": 90.0, "radius": 1.5, "distance": 3,
+          "paymentSource": "player",
+          "revenueTarget": "company",
+          "items": [
+            { "item": "iron_ore", "price": 5, "currency": "cash", "label": "Raw Iron Ore", "gradeRequired": 0 },
+            { "item": "coal", "price": 3, "currency": "cash", "label": "Coal", "gradeRequired": 0 },
+            { "item": "horseshoe", "price": 12, "currency": "cash", "label": "Horseshoe", "gradeRequired": 0 },
+            { "item": "WEAPON_MELEE_MACHETE", "price": 35, "currency": "cash", "label": "Machete", "gradeRequired": 2 }
+          ]
+        }
+      ],
+      "registers": [
+        {
+          "name": "smith_register",
+          "label": "Smithy Counter",
+          "interactionLabel": "Cash Register",
+          "promptText": "Use Register",
+          "interactionType": "prompt",
+          "icon": "fas fa-cash-register",
+          "jobRestricted": true,
+          "employeePercentage": 15,
+          "x": -187.05, "y": 641.92, "z": 114.07,
+          "heading": 270.0, "radius": 1.25, "distance": 3,
+          "rotX": 0, "rotY": 0, "propModel": "", "gizmoPlaced": 0
+        }
+      ],
+      "stashes": [],
+      "blips": [],
+      "dutyPoints": [],
+      "items": [
+        { "name": "iron_ore", "label": "Iron Ore", "weight": 500, "type": "item_standard" },
+        { "name": "coal", "label": "Coal", "weight": 300, "type": "item_standard" },
+        { "name": "horseshoe", "label": "Horseshoe", "weight": 400, "type": "item_standard" },
+        { "name": "iron_ingot", "label": "Iron Ingot", "weight": 800, "type": "item_standard" }
+      ]
+    },
+    {
+      "id": "doctor_1772500002",
+      "name": "doctor",
+      "label": "Doctor's Office",
+      "description": "Run the town doctor's practice in Saint Denis. Gather medicinal herbs from the bayou, craft remedies, and tend to the sick and wounded. A respected and essential profession in the frontier.",
+      "author": "Cactus Scripts",
+      "authorAvatar": "",
+      "authorDiscord": "",
+      "language": "English",
+      "map": "Saint Denis",
+      "tags": ["Medical", "Roleplay", "Economy"],
+      "sharedAt": "2026-03-02T16:05:00Z",
+      "importCount": 22,
+      "distance": 2.5,
+      "maxSalary": 600,
+      "minGradeToEditGrades": 3,
+      "defaultDuty": false,
+      "offDutyPay": false,
+      "coords": { "x": 2726.45, "y": -1225.38, "z": 50.47 },
+      "grades": [
+        { "level": 0, "name": "Nurse", "salary": 20 },
+        { "level": 1, "name": "Medic", "salary": 40 },
+        { "level": 2, "name": "Physician", "salary": 70 },
+        { "level": 3, "name": "Head Surgeon", "salary": 120 },
+        { "level": 4, "name": "Chief of Medicine", "salary": 200 }
+      ],
+      "defaultPermissions": {
+        "openBossMenu": 0, "accessInventory": 0, "editAvatars": 0,
+        "viewHistory": 0, "canSeeManageButton": 0,
+        "manageMoney": 4, "manageGold": 4, "recruit": 3, "fire": 3,
+        "promote": 3, "editGrades": 4, "viewFullHistory": 3,
+        "upgradeStorage": 4, "canGiveBonus": 3, "canSeeBonusButton": 3,
+        "canSeeFireButton": 3, "canSeeDemoteButton": 3,
+        "canSeePromoteButton": 3, "manageEmployeeGrade": 3
+      },
+      "harvestZones": [
+        {
+          "name": "herb_garden",
+          "promptText": "Gather Medicinal Herbs",
+          "interactionType": "prompt",
+          "duration": 6,
+          "cooldown": 35,
+          "animDict": "",
+          "animName": "",
+          "animId": "craft",
+          "animFlag": 17,
+          "requiredItem": "",
+          "jobRestricted": true,
+          "rewards": [
+            { "item": "medicinal_herb", "amount": 2, "chance": 100 },
+            { "item": "ginseng", "amount": 1, "chance": 40 }
+          ],
+          "points": [
+            { "x": 2731.10, "y": -1220.55, "z": 50.30, "heading": 0, "radius": 2.0, "distance": 3, "heightOffset": 0, "rotX": 0, "rotY": 0, "prop": "", "gizmoPlaced": 0 },
+            { "x": 2733.85, "y": -1218.20, "z": 50.25, "heading": 135.0, "radius": 2.0, "distance": 3, "heightOffset": 0, "rotX": 0, "rotY": 0, "prop": "p_beeswaxchunk01x", "gizmoPlaced": 1 }
+          ]
+        }
+      ],
+      "sellPoints": [
+        {
+          "name": "sell_medicine",
+          "label": "Sell Medicine",
+          "promptText": "Sell Remedies",
+          "interactionType": "prompt",
+          "jobRestricted": true,
+          "x": 2724.30, "y": -1228.90, "z": 50.47,
+          "heading": 0.0, "radius": 1.5, "distance": 3,
+          "items": [
+            { "item": "health_tonic", "price": 12, "currency": "cash", "label": "Health Tonic" },
+            { "item": "bandage", "price": 5, "currency": "cash", "label": "Bandage" }
+          ]
+        }
+      ],
+      "shops": [
+        {
+          "name": "pharmacy",
+          "label": "Pharmacy",
+          "interactionLabel": "Browse Medicine",
+          "promptText": "Open Pharmacy",
+          "interactionType": "prompt",
+          "icon": "fas fa-pills",
+          "jobRestricted": false,
+          "gradeRequired": 0,
+          "npcModel": "s_m_m_doctor_01",
+          "x": 2728.60, "y": -1226.75, "z": 50.47,
+          "heading": 180.0, "radius": 1.5, "distance": 3,
+          "paymentSource": "player",
+          "revenueTarget": "company",
+          "items": [
+            { "item": "health_tonic", "price": 15, "currency": "cash", "label": "Health Tonic", "gradeRequired": 0 },
+            { "item": "bandage", "price": 8, "currency": "cash", "label": "Bandage", "gradeRequired": 0 },
+            { "item": "ginseng", "price": 20, "currency": "cash", "label": "Ginseng Extract", "gradeRequired": 1 },
+            { "item": "miracle_tonic", "price": 50, "currency": "cash", "label": "Miracle Tonic", "gradeRequired": 3 }
+          ]
+        }
+      ],
+      "registers": [
+        {
+          "name": "doctor_register",
+          "label": "Doctor's Desk",
+          "interactionLabel": "Cash Register",
+          "promptText": "Use Register",
+          "interactionType": "prompt",
+          "icon": "fas fa-cash-register",
+          "jobRestricted": true,
+          "employeePercentage": 10,
+          "x": 2726.80, "y": -1224.50, "z": 50.47,
+          "heading": 90.0, "radius": 1.25, "distance": 3,
+          "rotX": 0, "rotY": 0, "propModel": "", "gizmoPlaced": 0
+        }
+      ],
+      "stashes": [],
+      "blips": [],
+      "dutyPoints": [],
+      "items": [
+        { "name": "medicinal_herb", "label": "Medicinal Herb", "weight": 100, "type": "item_standard" },
+        { "name": "ginseng", "label": "Ginseng", "weight": 100, "type": "item_standard" },
+        { "name": "health_tonic", "label": "Health Tonic", "weight": 200, "type": "item_standard" },
+        { "name": "bandage", "label": "Bandage", "weight": 100, "type": "item_standard" },
+        { "name": "miracle_tonic", "label": "Miracle Tonic", "weight": 300, "type": "item_standard" }
+      ]
+    },
+    {
+      "id": "saloon_1772500003",
+      "name": "saloon",
+      "label": "Saloon",
+      "description": "Manage the busiest saloon in Rhodes. Serve whiskey, beer and fine meals to travelers and locals. A lively business at the heart of town life — keep the drinks flowing and the gold rolling in.",
+      "author": "Cactus Scripts",
+      "authorAvatar": "",
+      "authorDiscord": "",
+      "language": "English",
+      "map": "Rhodes",
+      "tags": ["Business", "Roleplay", "Social"],
+      "sharedAt": "2026-03-02T16:10:00Z",
+      "importCount": 31,
+      "distance": 2.5,
+      "maxSalary": 400,
+      "minGradeToEditGrades": 3,
+      "defaultDuty": false,
+      "offDutyPay": false,
+      "coords": { "x": 1232.15, "y": -1296.42, "z": 76.90 },
+      "grades": [
+        { "level": 0, "name": "Dishwasher", "salary": 10 },
+        { "level": 1, "name": "Waiter", "salary": 25 },
+        { "level": 2, "name": "Bartender", "salary": 50 },
+        { "level": 3, "name": "Manager", "salary": 85 },
+        { "level": 4, "name": "Owner", "salary": 130 }
+      ],
+      "defaultPermissions": {
+        "openBossMenu": 0, "accessInventory": 0, "editAvatars": 0,
+        "viewHistory": 0, "canSeeManageButton": 0,
+        "manageMoney": 4, "manageGold": 4, "recruit": 3, "fire": 3,
+        "promote": 3, "editGrades": 4, "viewFullHistory": 3,
+        "upgradeStorage": 4, "canGiveBonus": 3, "canSeeBonusButton": 3,
+        "canSeeFireButton": 3, "canSeeDemoteButton": 3,
+        "canSeePromoteButton": 3, "manageEmployeeGrade": 3
+      },
+      "harvestZones": [
+        {
+          "name": "brew_drinks",
+          "promptText": "Brew Beverages",
+          "interactionType": "prompt",
+          "duration": 5,
+          "cooldown": 25,
+          "animDict": "",
+          "animName": "",
+          "animId": "craft",
+          "animFlag": 17,
+          "requiredItem": "",
+          "jobRestricted": true,
+          "rewards": [
+            { "item": "whiskey_bottle", "amount": 1, "chance": 100 },
+            { "item": "beer_bottle", "amount": 2, "chance": 80 }
+          ],
+          "points": [
+            { "x": 1234.82, "y": -1294.10, "z": 76.90, "heading": 0, "radius": 1.5, "distance": 3, "heightOffset": 0, "rotX": 0, "rotY": 0, "prop": "", "gizmoPlaced": 0 }
+          ]
+        }
+      ],
+      "sellPoints": [],
+      "shops": [
+        {
+          "name": "saloon_bar",
+          "label": "Saloon Bar",
+          "interactionLabel": "Order a Drink",
+          "promptText": "Open Bar Menu",
+          "interactionType": "prompt",
+          "icon": "fas fa-beer",
+          "jobRestricted": false,
+          "gradeRequired": 0,
+          "npcModel": "s_m_m_rhdbarkeep_01",
+          "x": 1230.45, "y": -1298.10, "z": 76.90,
+          "heading": 0.0, "radius": 1.5, "distance": 3,
+          "paymentSource": "player",
+          "revenueTarget": "company",
+          "items": [
+            { "item": "beer_bottle", "price": 3, "currency": "cash", "label": "Beer", "gradeRequired": 0 },
+            { "item": "whiskey_bottle", "price": 8, "currency": "cash", "label": "Whiskey", "gradeRequired": 0 },
+            { "item": "stew_bowl", "price": 5, "currency": "cash", "label": "Hearty Stew", "gradeRequired": 0 },
+            { "item": "cigar", "price": 4, "currency": "cash", "label": "Fine Cigar", "gradeRequired": 0 },
+            { "item": "premium_whiskey", "price": 20, "currency": "gold", "label": "Premium Aged Whiskey", "gradeRequired": 2 }
+          ]
+        }
+      ],
+      "registers": [
+        {
+          "name": "saloon_register",
+          "label": "Saloon Counter",
+          "interactionLabel": "Cash Register",
+          "promptText": "Use Register",
+          "interactionType": "prompt",
+          "icon": "fas fa-cash-register",
+          "jobRestricted": true,
+          "employeePercentage": 12,
+          "x": 1231.50, "y": -1296.80, "z": 76.90,
+          "heading": 180.0, "radius": 1.25, "distance": 3,
+          "rotX": 0, "rotY": 0, "propModel": "", "gizmoPlaced": 0
+        }
+      ],
+      "stashes": [],
+      "blips": [],
+      "dutyPoints": [],
+      "items": [
+        { "name": "whiskey_bottle", "label": "Whiskey Bottle", "weight": 300, "type": "item_standard" },
+        { "name": "beer_bottle", "label": "Beer Bottle", "weight": 250, "type": "item_standard" },
+        { "name": "stew_bowl", "label": "Hearty Stew", "weight": 200, "type": "item_standard" },
+        { "name": "cigar", "label": "Fine Cigar", "weight": 50, "type": "item_standard" },
+        { "name": "premium_whiskey", "label": "Premium Aged Whiskey", "weight": 400, "type": "item_standard" }
+      ]
+    },
+    {
+      "id": "stables_1772500004",
+      "name": "stables",
+      "label": "Stables",
+      "description": "Operate the horse stables near Blackwater. Care for horses, craft feed and saddle supplies, and provide boarding services to travelers. Every cowboy needs a trusty steed — make sure theirs is in top shape.",
+      "author": "Cactus Scripts",
+      "authorAvatar": "",
+      "authorDiscord": "",
+      "language": "English",
+      "map": "Blackwater",
+      "tags": ["Animals", "Roleplay", "Service"],
+      "sharedAt": "2026-03-02T16:15:00Z",
+      "importCount": 18,
+      "distance": 2.5,
+      "maxSalary": 400,
+      "minGradeToEditGrades": 3,
+      "defaultDuty": false,
+      "offDutyPay": false,
+      "coords": { "x": -848.52, "y": -1338.18, "z": 43.71 },
+      "grades": [
+        { "level": 0, "name": "Stable Hand", "salary": 12 },
+        { "level": 1, "name": "Groomer", "salary": 25 },
+        { "level": 2, "name": "Trainer", "salary": 50 },
+        { "level": 3, "name": "Stable Master", "salary": 80 },
+        { "level": 4, "name": "Owner", "salary": 120 }
+      ],
+      "defaultPermissions": {
+        "openBossMenu": 0, "accessInventory": 0, "editAvatars": 0,
+        "viewHistory": 0, "canSeeManageButton": 0,
+        "manageMoney": 4, "manageGold": 4, "recruit": 3, "fire": 3,
+        "promote": 3, "editGrades": 4, "viewFullHistory": 3,
+        "upgradeStorage": 4, "canGiveBonus": 3, "canSeeBonusButton": 3,
+        "canSeeFireButton": 3, "canSeeDemoteButton": 3,
+        "canSeePromoteButton": 3, "manageEmployeeGrade": 3
+      },
+      "harvestZones": [
+        {
+          "name": "gather_hay",
+          "promptText": "Gather Hay & Feed",
+          "interactionType": "prompt",
+          "duration": 5,
+          "cooldown": 30,
+          "animDict": "",
+          "animName": "",
+          "animId": "craft",
+          "animFlag": 17,
+          "requiredItem": "",
+          "jobRestricted": true,
+          "rewards": [
+            { "item": "hay_bale", "amount": 2, "chance": 100 },
+            { "item": "horse_feed", "amount": 1, "chance": 70 }
+          ],
+          "points": [
+            { "x": -845.10, "y": -1340.55, "z": 43.50, "heading": 0, "radius": 2.0, "distance": 3, "heightOffset": 0, "rotX": 0, "rotY": 0, "prop": "", "gizmoPlaced": 0 }
+          ]
+        }
+      ],
+      "sellPoints": [
+        {
+          "name": "sell_supplies",
+          "label": "Sell Horse Supplies",
+          "promptText": "Sell Supplies",
+          "interactionType": "prompt",
+          "jobRestricted": true,
+          "x": -850.80, "y": -1335.40, "z": 43.71,
+          "heading": 270.0, "radius": 1.5, "distance": 3,
+          "items": [
+            { "item": "horse_feed", "price": 6, "currency": "cash", "label": "Horse Feed" },
+            { "item": "horse_brush", "price": 10, "currency": "cash", "label": "Horse Brush" }
+          ]
+        }
+      ],
+      "shops": [
+        {
+          "name": "stable_shop",
+          "label": "Stable Supplies",
+          "interactionLabel": "Browse Horse Supplies",
+          "promptText": "Open Stable Shop",
+          "interactionType": "prompt",
+          "icon": "fas fa-horse",
+          "jobRestricted": false,
+          "gradeRequired": 0,
+          "npcModel": "u_m_m_youstabledummy_01",
+          "x": -847.30, "y": -1336.80, "z": 43.71,
+          "heading": 45.0, "radius": 1.5, "distance": 3,
+          "paymentSource": "player",
+          "revenueTarget": "company",
+          "items": [
+            { "item": "horse_feed", "price": 8, "currency": "cash", "label": "Premium Horse Feed", "gradeRequired": 0 },
+            { "item": "hay_bale", "price": 4, "currency": "cash", "label": "Hay Bale", "gradeRequired": 0 },
+            { "item": "horse_brush", "price": 12, "currency": "cash", "label": "Horse Brush", "gradeRequired": 0 },
+            { "item": "horse_medicine", "price": 25, "currency": "cash", "label": "Horse Medicine", "gradeRequired": 2 }
+          ]
+        }
+      ],
+      "registers": [],
+      "stashes": [],
+      "blips": [],
+      "dutyPoints": [],
+      "items": [
+        { "name": "hay_bale", "label": "Hay Bale", "weight": 800, "type": "item_standard" },
+        { "name": "horse_feed", "label": "Horse Feed", "weight": 500, "type": "item_standard" },
+        { "name": "horse_brush", "label": "Horse Brush", "weight": 200, "type": "item_standard" },
+        { "name": "horse_medicine", "label": "Horse Medicine", "weight": 300, "type": "item_standard" }
+      ]
+    },
+    {
+      "id": "lumbermill_1772500005",
+      "name": "lumbermill",
+      "label": "Lumber Mill",
+      "description": "Operate the lumber mill in the mountains near Strawberry. Fell trees, process timber, and supply construction wood to the growing frontier towns. Hard work under the open sky with honest pay.",
+      "author": "Cactus Scripts",
+      "authorAvatar": "",
+      "authorDiscord": "",
+      "language": "English",
+      "map": "Strawberry",
+      "tags": ["Industry", "Crafting", "Economy"],
+      "sharedAt": "2026-03-02T16:20:00Z",
+      "importCount": 9,
+      "distance": 2.5,
+      "maxSalary": 500,
+      "minGradeToEditGrades": 3,
+      "defaultDuty": false,
+      "offDutyPay": false,
+      "coords": { "x": -1785.22, "y": -426.88, "z": 161.58 },
+      "grades": [
+        { "level": 0, "name": "Laborer", "salary": 15 },
+        { "level": 1, "name": "Lumberjack", "salary": 30 },
+        { "level": 2, "name": "Sawyer", "salary": 55 },
+        { "level": 3, "name": "Foreman", "salary": 90 },
+        { "level": 4, "name": "Mill Owner", "salary": 140 }
+      ],
+      "defaultPermissions": {
+        "openBossMenu": 0, "accessInventory": 0, "editAvatars": 0,
+        "viewHistory": 0, "canSeeManageButton": 0,
+        "manageMoney": 4, "manageGold": 4, "recruit": 3, "fire": 3,
+        "promote": 3, "editGrades": 4, "viewFullHistory": 3,
+        "upgradeStorage": 4, "canGiveBonus": 3, "canSeeBonusButton": 3,
+        "canSeeFireButton": 3, "canSeeDemoteButton": 3,
+        "canSeePromoteButton": 3, "manageEmployeeGrade": 3
+      },
+      "harvestZones": [
+        {
+          "name": "chop_wood",
+          "promptText": "Chop Wood",
+          "interactionType": "prompt",
+          "duration": 7,
+          "cooldown": 40,
+          "animDict": "",
+          "animName": "",
+          "animId": "craft",
+          "animFlag": 17,
+          "requiredItem": "",
+          "jobRestricted": true,
+          "rewards": [
+            { "item": "raw_wood", "amount": 3, "chance": 100 },
+            { "item": "tree_bark", "amount": 1, "chance": 50 }
+          ],
+          "points": [
+            { "x": -1780.40, "y": -430.22, "z": 161.25, "heading": 0, "radius": 2.5, "distance": 3, "heightOffset": 0, "rotX": 0, "rotY": 0, "prop": "", "gizmoPlaced": 0 },
+            { "x": -1778.15, "y": -428.60, "z": 161.10, "heading": 90.0, "radius": 2.5, "distance": 3, "heightOffset": 0, "rotX": 0, "rotY": 0, "prop": "p_tree_stump01x", "gizmoPlaced": 1 }
+          ]
+        }
+      ],
+      "sellPoints": [
+        {
+          "name": "sell_lumber",
+          "label": "Sell Processed Lumber",
+          "promptText": "Sell Lumber",
+          "interactionType": "prompt",
+          "jobRestricted": true,
+          "x": -1788.80, "y": -424.10, "z": 161.58,
+          "heading": 315.0, "radius": 1.5, "distance": 3,
+          "items": [
+            { "item": "plank", "price": 10, "currency": "cash", "label": "Wooden Plank" },
+            { "item": "raw_wood", "price": 4, "currency": "cash", "label": "Raw Wood" },
+            { "item": "tree_bark", "price": 2, "currency": "cash", "label": "Tree Bark" }
+          ]
+        }
+      ],
+      "shops": [],
+      "registers": [],
+      "stashes": [],
+      "blips": [],
+      "dutyPoints": [],
+      "items": [
+        { "name": "raw_wood", "label": "Raw Wood", "weight": 600, "type": "item_standard" },
+        { "name": "plank", "label": "Wooden Plank", "weight": 1000, "type": "item_standard" },
+        { "name": "tree_bark", "label": "Tree Bark", "weight": 200, "type": "item_standard" }
+      ]
+    },
+    {
+      "id": "mining_1772500006",
+      "name": "mining",
+      "label": "Mining Company",
+      "description": "Run the Annesburg mining operation. Extract coal, iron and gold from deep underground shafts. A dangerous but lucrative business that fuels the industrial revolution sweeping through the frontier.",
+      "author": "Cactus Scripts",
+      "authorAvatar": "",
+      "authorDiscord": "",
+      "language": "English",
+      "map": "Annesburg",
+      "tags": ["Industry", "Economy", "Hardcore"],
+      "sharedAt": "2026-03-02T16:25:00Z",
+      "importCount": 26,
+      "distance": 2.5,
+      "maxSalary": 700,
+      "minGradeToEditGrades": 3,
+      "defaultDuty": false,
+      "offDutyPay": false,
+      "coords": { "x": 2928.55, "y": 1316.42, "z": 44.82 },
+      "grades": [
+        { "level": 0, "name": "Miner", "salary": 18 },
+        { "level": 1, "name": "Driller", "salary": 35 },
+        { "level": 2, "name": "Explosives Expert", "salary": 60 },
+        { "level": 3, "name": "Shift Supervisor", "salary": 100 },
+        { "level": 4, "name": "Mine Director", "salary": 180 }
+      ],
+      "defaultPermissions": {
+        "openBossMenu": 0, "accessInventory": 0, "editAvatars": 0,
+        "viewHistory": 0, "canSeeManageButton": 0,
+        "manageMoney": 4, "manageGold": 4, "recruit": 3, "fire": 3,
+        "promote": 3, "editGrades": 4, "viewFullHistory": 3,
+        "upgradeStorage": 4, "canGiveBonus": 3, "canSeeBonusButton": 3,
+        "canSeeFireButton": 3, "canSeeDemoteButton": 3,
+        "canSeePromoteButton": 3, "manageEmployeeGrade": 3
+      },
+      "harvestZones": [
+        {
+          "name": "mine_shaft_a",
+          "promptText": "Mine Ore",
+          "interactionType": "prompt",
+          "duration": 10,
+          "cooldown": 50,
+          "animDict": "",
+          "animName": "",
+          "animId": "craft",
+          "animFlag": 17,
+          "requiredItem": "",
+          "jobRestricted": true,
+          "rewards": [
+            { "item": "coal", "amount": 3, "chance": 100 },
+            { "item": "iron_ore", "amount": 2, "chance": 70 },
+            { "item": "gold_nugget", "amount": 1, "chance": 15 }
+          ],
+          "points": [
+            { "x": 2932.80, "y": 1320.10, "z": 44.50, "heading": 0, "radius": 2.0, "distance": 3, "heightOffset": 0, "rotX": 0, "rotY": 0, "prop": "", "gizmoPlaced": 0 },
+            { "x": 2935.15, "y": 1318.30, "z": 44.35, "heading": 60.0, "radius": 2.0, "distance": 3, "heightOffset": 0, "rotX": 0, "rotY": 0, "prop": "p_amb_oilcan01x", "gizmoPlaced": 1 },
+            { "x": 2930.50, "y": 1322.80, "z": 44.40, "heading": 180.0, "radius": 2.0, "distance": 3, "heightOffset": 0, "rotX": 0, "rotY": 0, "prop": "", "gizmoPlaced": 0 }
+          ]
+        }
+      ],
+      "sellPoints": [
+        {
+          "name": "sell_ore",
+          "label": "Sell Raw Materials",
+          "promptText": "Sell Ore",
+          "interactionType": "prompt",
+          "jobRestricted": true,
+          "x": 2926.20, "y": 1314.00, "z": 44.82,
+          "heading": 225.0, "radius": 1.5, "distance": 3,
+          "items": [
+            { "item": "coal", "price": 3, "currency": "cash", "label": "Coal" },
+            { "item": "iron_ore", "price": 8, "currency": "cash", "label": "Iron Ore" },
+            { "item": "gold_nugget", "price": 5, "currency": "gold", "label": "Gold Nugget" }
+          ]
+        }
+      ],
+      "shops": [
+        {
+          "name": "mining_supplies",
+          "label": "Mining Supplies",
+          "interactionLabel": "Buy Equipment",
+          "promptText": "Open Mining Store",
+          "interactionType": "prompt",
+          "icon": "fas fa-hard-hat",
+          "jobRestricted": false,
+          "gradeRequired": 0,
+          "npcModel": "s_m_m_nbxminer_01",
+          "x": 2924.80, "y": 1318.55, "z": 44.82,
+          "heading": 135.0, "radius": 1.5, "distance": 3,
+          "paymentSource": "player",
+          "revenueTarget": "company",
+          "items": [
+            { "item": "dynamite", "price": 25, "currency": "cash", "label": "Dynamite Stick", "gradeRequired": 2 },
+            { "item": "mining_lamp", "price": 10, "currency": "cash", "label": "Mining Lamp", "gradeRequired": 0 },
+            { "item": "coal", "price": 5, "currency": "cash", "label": "Processed Coal", "gradeRequired": 0 }
+          ]
+        }
+      ],
+      "registers": [
+        {
+          "name": "mining_office",
+          "label": "Mining Office",
+          "interactionLabel": "Cash Register",
+          "promptText": "Use Register",
+          "interactionType": "prompt",
+          "icon": "fas fa-cash-register",
+          "jobRestricted": true,
+          "employeePercentage": 8,
+          "x": 2927.60, "y": 1316.20, "z": 44.82,
+          "heading": 0.0, "radius": 1.25, "distance": 3,
+          "rotX": 0, "rotY": 0, "propModel": "", "gizmoPlaced": 0
+        }
+      ],
+      "stashes": [],
+      "blips": [],
+      "dutyPoints": [],
+      "items": [
+        { "name": "coal", "label": "Coal", "weight": 400, "type": "item_standard" },
+        { "name": "iron_ore", "label": "Iron Ore", "weight": 500, "type": "item_standard" },
+        { "name": "gold_nugget", "label": "Gold Nugget", "weight": 200, "type": "item_standard" },
+        { "name": "dynamite", "label": "Dynamite Stick", "weight": 300, "type": "item_standard" },
+        { "name": "mining_lamp", "label": "Mining Lamp", "weight": 250, "type": "item_standard" }
+      ]
+    },
+    {
+      "id": "generalstore_1772500007",
+      "name": "generalstore",
+      "label": "General Store",
+      "description": "Run the general store in Strawberry. Stock and sell everything a frontier settler might need — canned food, tobacco, ammunition, clothing and tools. The one-stop shop for every traveler passing through.",
+      "author": "Cactus Scripts",
+      "authorAvatar": "",
+      "authorDiscord": "",
+      "language": "English",
+      "map": "Strawberry",
+      "tags": ["Business", "Economy", "Roleplay"],
+      "sharedAt": "2026-03-02T16:30:00Z",
+      "importCount": 35,
+      "distance": 2.5,
+      "maxSalary": 400,
+      "minGradeToEditGrades": 3,
+      "defaultDuty": false,
+      "offDutyPay": false,
+      "coords": { "x": -1793.55, "y": -388.10, "z": 160.18 },
+      "grades": [
+        { "level": 0, "name": "Stock Clerk", "salary": 10 },
+        { "level": 1, "name": "Cashier", "salary": 22 },
+        { "level": 2, "name": "Floor Manager", "salary": 45 },
+        { "level": 3, "name": "Store Manager", "salary": 75 },
+        { "level": 4, "name": "Owner", "salary": 110 }
+      ],
+      "defaultPermissions": {
+        "openBossMenu": 0, "accessInventory": 0, "editAvatars": 0,
+        "viewHistory": 0, "canSeeManageButton": 0,
+        "manageMoney": 4, "manageGold": 4, "recruit": 3, "fire": 3,
+        "promote": 3, "editGrades": 4, "viewFullHistory": 3,
+        "upgradeStorage": 4, "canGiveBonus": 3, "canSeeBonusButton": 3,
+        "canSeeFireButton": 3, "canSeeDemoteButton": 3,
+        "canSeePromoteButton": 3, "manageEmployeeGrade": 3
+      },
+      "harvestZones": [],
+      "sellPoints": [],
+      "shops": [
+        {
+          "name": "general_goods",
+          "label": "General Goods",
+          "interactionLabel": "Browse Store",
+          "promptText": "Open General Store",
+          "interactionType": "prompt",
+          "icon": "fas fa-store",
+          "jobRestricted": false,
+          "gradeRequired": 0,
+          "npcModel": "s_m_m_strgeneral_01",
+          "x": -1791.80, "y": -386.45, "z": 160.18,
+          "heading": 90.0, "radius": 1.5, "distance": 3,
+          "paymentSource": "player",
+          "revenueTarget": "company",
+          "items": [
+            { "item": "canned_food", "price": 3, "currency": "cash", "label": "Canned Food", "gradeRequired": 0 },
+            { "item": "tobacco", "price": 4, "currency": "cash", "label": "Tobacco", "gradeRequired": 0 },
+            { "item": "coffee_beans", "price": 5, "currency": "cash", "label": "Coffee Beans", "gradeRequired": 0 },
+            { "item": "rope", "price": 8, "currency": "cash", "label": "Rope", "gradeRequired": 0 },
+            { "item": "lantern_oil", "price": 6, "currency": "cash", "label": "Lantern Oil", "gradeRequired": 0 },
+            { "item": "WEAPON_MELEE_KNIFE", "price": 15, "currency": "cash", "label": "Hunting Knife", "gradeRequired": 0 }
+          ]
+        }
+      ],
+      "registers": [
+        {
+          "name": "store_register",
+          "label": "Store Counter",
+          "interactionLabel": "Cash Register",
+          "promptText": "Use Register",
+          "interactionType": "prompt",
+          "icon": "fas fa-cash-register",
+          "jobRestricted": true,
+          "employeePercentage": 15,
+          "x": -1793.20, "y": -387.50, "z": 160.18,
+          "heading": 180.0, "radius": 1.25, "distance": 3,
+          "rotX": 0, "rotY": 0, "propModel": "", "gizmoPlaced": 0
+        }
+      ],
+      "stashes": [],
+      "blips": [],
+      "dutyPoints": [],
+      "items": [
+        { "name": "canned_food", "label": "Canned Food", "weight": 200, "type": "item_standard" },
+        { "name": "tobacco", "label": "Tobacco", "weight": 100, "type": "item_standard" },
+        { "name": "coffee_beans", "label": "Coffee Beans", "weight": 150, "type": "item_standard" },
+        { "name": "rope", "label": "Rope", "weight": 300, "type": "item_standard" },
+        { "name": "lantern_oil", "label": "Lantern Oil", "weight": 250, "type": "item_standard" }
+      ]
+    },
+    {
+      "id": "trapper_1772500008",
+      "name": "trapper",
+      "label": "Trapper & Fur Trader",
+      "description": "Live off the land as a trapper in the Big Valley wilderness. Hunt game, skin pelts, tan hides and sell premium furs to wealthy buyers. A rugged solo profession for those who prefer the wild over town life.",
+      "author": "Cactus Scripts",
+      "authorAvatar": "",
+      "authorDiscord": "",
+      "language": "English",
+      "map": "Big Valley",
+      "tags": ["Hunting", "Wilderness", "Economy"],
+      "sharedAt": "2026-03-02T16:35:00Z",
+      "importCount": 19,
+      "distance": 2.5,
+      "maxSalary": 500,
+      "minGradeToEditGrades": 3,
+      "defaultDuty": false,
+      "offDutyPay": false,
+      "coords": { "x": -1612.40, "y": 710.25, "z": 145.22 },
+      "grades": [
+        { "level": 0, "name": "Trapper", "salary": 15 },
+        { "level": 1, "name": "Skinner", "salary": 30 },
+        { "level": 2, "name": "Tanner", "salary": 55 },
+        { "level": 3, "name": "Master Trapper", "salary": 90 },
+        { "level": 4, "name": "Trade Master", "salary": 140 }
+      ],
+      "defaultPermissions": {
+        "openBossMenu": 0, "accessInventory": 0, "editAvatars": 0,
+        "viewHistory": 0, "canSeeManageButton": 0,
+        "manageMoney": 4, "manageGold": 4, "recruit": 3, "fire": 3,
+        "promote": 3, "editGrades": 4, "viewFullHistory": 3,
+        "upgradeStorage": 4, "canGiveBonus": 3, "canSeeBonusButton": 3,
+        "canSeeFireButton": 3, "canSeeDemoteButton": 3,
+        "canSeePromoteButton": 3, "manageEmployeeGrade": 3
+      },
+      "harvestZones": [
+        {
+          "name": "skin_pelts",
+          "promptText": "Skin & Process Pelts",
+          "interactionType": "prompt",
+          "duration": 8,
+          "cooldown": 45,
+          "animDict": "",
+          "animName": "",
+          "animId": "craft",
+          "animFlag": 17,
+          "requiredItem": "",
+          "jobRestricted": true,
+          "rewards": [
+            { "item": "deer_pelt", "amount": 1, "chance": 100 },
+            { "item": "rabbit_pelt", "amount": 2, "chance": 80 },
+            { "item": "bear_pelt", "amount": 1, "chance": 20 }
+          ],
+          "points": [
+            { "x": -1609.80, "y": 712.50, "z": 145.00, "heading": 0, "radius": 2.5, "distance": 3, "heightOffset": 0, "rotX": 0, "rotY": 0, "prop": "", "gizmoPlaced": 0 },
+            { "x": -1607.20, "y": 714.10, "z": 144.85, "heading": 120.0, "radius": 2.5, "distance": 3, "heightOffset": 0, "rotX": 0, "rotY": 0, "prop": "p_ropebundle01x", "gizmoPlaced": 1 }
+          ]
+        },
+        {
+          "name": "tan_hides",
+          "promptText": "Tan Hides",
+          "interactionType": "prompt",
+          "duration": 10,
+          "cooldown": 60,
+          "animDict": "",
+          "animName": "",
+          "animId": "craft",
+          "animFlag": 17,
+          "requiredItem": "deer_pelt",
+          "jobRestricted": true,
+          "rewards": [
+            { "item": "tanned_leather", "amount": 1, "chance": 100 }
+          ],
+          "points": [
+            { "x": -1614.90, "y": 708.30, "z": 145.10, "heading": 270.0, "radius": 2.0, "distance": 3, "heightOffset": 0, "rotX": 0, "rotY": 0, "prop": "", "gizmoPlaced": 0 }
+          ]
+        }
+      ],
+      "sellPoints": [
+        {
+          "name": "sell_furs",
+          "label": "Sell Furs & Leather",
+          "promptText": "Sell Furs",
+          "interactionType": "prompt",
+          "jobRestricted": true,
+          "x": -1615.50, "y": 713.80, "z": 145.22,
+          "heading": 180.0, "radius": 1.5, "distance": 3,
+          "items": [
+            { "item": "deer_pelt", "price": 8, "currency": "cash", "label": "Deer Pelt" },
+            { "item": "rabbit_pelt", "price": 4, "currency": "cash", "label": "Rabbit Pelt" },
+            { "item": "bear_pelt", "price": 25, "currency": "cash", "label": "Bear Pelt" },
+            { "item": "tanned_leather", "price": 18, "currency": "cash", "label": "Tanned Leather" }
+          ]
+        }
+      ],
+      "shops": [
+        {
+          "name": "trapper_shop",
+          "label": "Trapper's Wares",
+          "interactionLabel": "Browse Furs & Goods",
+          "promptText": "Open Trapper Shop",
+          "interactionType": "prompt",
+          "icon": "fas fa-paw",
+          "jobRestricted": false,
+          "gradeRequired": 0,
+          "npcModel": "s_m_m_nbxtrapper_01",
+          "x": -1610.80, "y": 707.60, "z": 145.22,
+          "heading": 45.0, "radius": 1.5, "distance": 3,
+          "paymentSource": "player",
+          "revenueTarget": "company",
+          "items": [
+            { "item": "rabbit_pelt", "price": 6, "currency": "cash", "label": "Rabbit Pelt", "gradeRequired": 0 },
+            { "item": "deer_pelt", "price": 12, "currency": "cash", "label": "Deer Pelt", "gradeRequired": 0 },
+            { "item": "tanned_leather", "price": 22, "currency": "cash", "label": "Tanned Leather", "gradeRequired": 1 },
+            { "item": "bear_pelt", "price": 35, "currency": "gold", "label": "Premium Bear Pelt", "gradeRequired": 3 }
+          ]
+        }
+      ],
+      "registers": [],
+      "stashes": [],
+      "blips": [],
+      "dutyPoints": [],
+      "items": [
+        { "name": "deer_pelt", "label": "Deer Pelt", "weight": 500, "type": "item_standard" },
+        { "name": "rabbit_pelt", "label": "Rabbit Pelt", "weight": 200, "type": "item_standard" },
+        { "name": "bear_pelt", "label": "Bear Pelt", "weight": 1200, "type": "item_standard" },
+        { "name": "tanned_leather", "label": "Tanned Leather", "weight": 400, "type": "item_standard" }
+      ]
+    }
+  ],
+  "updated": "2026-03-02T16:35:00Z"
+}
